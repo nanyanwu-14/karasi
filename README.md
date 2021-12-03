@@ -22,5 +22,3 @@ Each decision that the user makes corresponds to a specific apocalyptic archetyp
 After Chapter 10, once the user clicks ‘Next Chapter’, they are redirected to a breakdown page that displays the user’s primary archetype (the archetype which determined their ending) and their secondary archetype. There is also a text explanation of the archetypes. The pronouns are used here to personalize the description.
 
 After completing a story, the user can click the ‘Past Playthroughs’ hyperlink and go to the playthrough table with columns ‘Character Name’, ‘Date Started’, ‘Archetype’, ‘View Story’, and ‘View Breakdown’. This allows the user to view stories they have already completed as well as jump to the breakdown file for said stories as opposed to having to click through each decision and chapter again. They can also easily see the archetype that corresponds to each completed playthrough. If the user clicks the ‘Legend of Karasi’ hyperlink after completing the story, the ‘Playthrough Table’ allows the user to click the view button and view their completed story from chapter 1.
-
-Youtube Link: https://youtu.be/A0nPpDoby48
